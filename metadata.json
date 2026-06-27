@@ -1,0 +1,8 @@
+{
+  "name": "Local Impact Finder",
+  "description": "A smart city and civic engagement platform to report, vote, and track local neighborhood challenges across key urban sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
